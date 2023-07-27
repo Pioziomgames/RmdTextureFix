@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RmdTextureFix", "RmdTextureFix\RmdTextureFix.csproj", "{69628EA3-7306-4D9B-90B3-7D451553FC29}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GJ.IO", "..\GJConv\GJ.IO\GJ.IO.csproj", "{FC32ACA7-7BA9-436D-84D3-ACC6CC3FD700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69628EA3-7306-4D9B-90B3-7D451553FC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69628EA3-7306-4D9B-90B3-7D451553FC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69628EA3-7306-4D9B-90B3-7D451553FC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69628EA3-7306-4D9B-90B3-7D451553FC29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC32ACA7-7BA9-436D-84D3-ACC6CC3FD700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC32ACA7-7BA9-436D-84D3-ACC6CC3FD700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC32ACA7-7BA9-436D-84D3-ACC6CC3FD700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC32ACA7-7BA9-436D-84D3-ACC6CC3FD700}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1632F7A8-8DC9-4C68-B6A1-9452668DC109}
+	EndGlobalSection
+EndGlobal
